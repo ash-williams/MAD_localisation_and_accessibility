@@ -1,0 +1,12 @@
+{
+  "name": "localanddark",
+  "displayName": "localanddark",
+  "expo": {
+    "name": "localanddark",
+    "slug": "localanddark",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
